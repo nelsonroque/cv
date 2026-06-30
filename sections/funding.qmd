@@ -18,13 +18,13 @@
 
 | Role | PI / Prime | Sponsor | Period | Total Costs | Public Record |
 |---|---|---|---:|---:|---|
-| Co-Principal Investigator | Albert Einstein College of Medicine; Co-PI: Dr. Charles B. Hall | NIH/NIA | 2022–2027 | $911,768; 35% allocation | [NIH RePORTER](https://reporter.nih.gov/search) |
+| Co-Principal Investigator | Albert Einstein College of Medicine; Co-PI: Dr. Charles B. Hall | NIH/NIA | 2022–2027 | $911,768; 35% allocation | [NIH RePORTER](https://reporter.nih.gov/project-details/11092245) |
 
 #### 4. NIA-5P01AG003949-12 — Einstein Aging Study, Core: Technology and Data Management Core
 
 | Role | PI / Prime | Sponsor | Period | Total Costs | Public Record |
 |---|---|---|---:|---:|---|
-| Core Leader; Principal Investigator of subaward | Albert Einstein College of Medicine | NIH/NIA | 2022–2027 | $1,696,559; 19% allocation | [NIH RePORTER](https://reporter.nih.gov/search) |
+| Core Leader; Principal Investigator of subaward | Albert Einstein College of Medicine | NIH/NIA | 2022–2027 | $1,696,559; 19% allocation | [NIH RePORTER](https://reporter.nih.gov/search/sTurp4Mlm0y-kLmPPdCgSQ/project-details/11092267) |
 
 #### 5. NIA-U2CAG060408 — Mobile Monitoring of Cognitive Change (M2C2)
 
@@ -42,17 +42,21 @@
 
 | Role | PI / Prime | Sponsor | Period | Total Costs | Public Record |
 |---|---|---|---:|---:|---|
-| Principal Investigator | Nelson A. Roque | NIH/NIA | July 2020–May 2022 | $149,000 | [NIH RePORTER](https://reporter.nih.gov/search) |
-
-### Funding Applications In Review
+| Principal Investigator | Nelson A. Roque | NIH/NIA | July 2020–May 2022 | $149,000 | [NIH RePORTER](https://reporter.nih.gov/search/mg5_EPGNUEOk8qjMvM2JUA/project-details/10202481) |
 
 #### 8. NIA-240459 — Advancing Mobile Monitoring of Intraindividual Change in Alzheimer’s Disease and Related Dementias: Building an Open and Inclusive Infrastructure
 
-| Role | Sponsor | Proposed Period | Proposed Total Costs | Public Record |
+| Role | Sponsor | Period | Total Costs | Public Record |
 |---|---|---:|---:|---|
 | Co-Core Leader, Data Management and Analytics Core | NIH/NIA | 2024–2029 | $19,844,799 | [NIH RePORTER](https://reporter.nih.gov/search/z-Zq4ZPDxkmZB8t_9Kda9w/project-details/11118298) |
 
-| Core | Allocation | Proposed Costs |
+| Core | Allocation | Costs |
 |---|---:|---:|
 | Technical Core | 10% | $4,372,510 |
 | Data Core | 10% | $2,142,145 |
+
+#### 9. The Peanut Institute Foundation — Peanut butter, glycemic control, cognition, and cardiovascular health.
+
+| Role | PI / Prime | Sponsor | Period | Total Costs | Public Record |
+|---|---|---|---:|---:|---|
+| Co-Investigator | Nelson A. Roque | The Peanut Institute (TPI) Foundation | May 2026-June 2027 | $290,000 |
