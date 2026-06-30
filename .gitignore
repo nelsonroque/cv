@@ -1,4 +1,6 @@
 /.quarto/
 **/*.quarto_ipynb
-/nelson-roque-tenure-cv_files/libs
+/nelson-roque-tenure-cv.html
+/nelson-roque-tenure-cv.pdf
+/nelson-roque-tenure-cv_files/
 .DS_Store

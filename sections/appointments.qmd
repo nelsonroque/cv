@@ -1,4 +1,4 @@
-## Appointments & Affiliations
+### Appointments & Affiliations
 
 ::: {.appointments}
 

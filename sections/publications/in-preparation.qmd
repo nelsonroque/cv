@@ -1,9 +1,9 @@
 ### In Preparation
 
 1. Roque, N. A. (in preparation). Protecting ourselves from AI-enabled financial fraud: The case for the family password.
-1. Roque, N. A. , & Santos, A. (in preparation). A taxonomy of screen-time interventions.
-1. Roque, N. A., Shaleha, R., & Brick, T. (in preparation). Exploring risk factors for medication errors in daily life: A mixed methods study.
-1. Roque, N. A., Hall, C., Garcia De La Garza, A., & Katz, M. (in preparation). What one extra monitor can reveal: A case study on local air quality dynamics.
-1. Roque, N. A. (in preparation). Screen time isn’t all bad: A natural language analysis of how we measure it.
-1. Roque, N. A. (in preparation). Particulate matter 2.5 (PM2.5) air pollution exposure is associated with ambulatory cognitive assessment (ACA) performance: Results from the Einstein Aging Study.
-1. Roque, N.A. Privacy and Safety in Online Research: Challenges and Opportunities. Target Journal: Behavior Research Methods. [**Premier Journal in Behavioral Research**]
+1. Roque, N. A., & Shaleha, R. (in preparation). Screen time isn’t all bad: A natural language analysis of how we measure it.
+1. Roque, N. A., & Shaleha, R. (in preparation). A taxonomy of screen-time interventions.
+1. Roque, N. A., Felt, J. (in preparation). Exploring risk factors for medication errors in daily life: A mixed methods study.
+1. Roque, N. A., Santos, A.J. (in preparation). What one extra monitor can reveal: A case study on local air quality dynamics.
+1. Roque, N. A., Garcia de La Garza, A., Hosgood, H.D., Hall, C.B., Katz, M.J. (in preparation). Particulate matter 2.5 (PM2.5) air pollution exposure is associated with ambulatory cognitive assessment (ACA) performance: Results from the Einstein Aging Study.
+1. Roque, N. A. (in preparation). Privacy and Safety in Online Research: Challenges and Opportunities. Target Journal: Behavior Research Methods. [**Premier Journal in Behavioral Research**]

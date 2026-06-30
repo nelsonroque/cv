@@ -30,7 +30,6 @@
 | Spring 2022 | Honors Directed Readings |
 | Spring 2022 | Directed Independent Research |
 | Fall 2021 | Directed Independent Research |
-| Fall 2021 | Cognitive Psychology |
 | Spring 2021 | Cognitive Psychology |
 | Fall 2021 | Cognitive Psychology |
 
@@ -38,7 +37,7 @@
 
 | Term | Course / Role |
 | --- | --- |
-| Fall 2016 | Brain and behavior |
+| Fall 2016 | Brain and Behavior |
 | Spring 2016 | Research Methods |
 | Summer 2014 | Python Programming + Open-Source Experiment Building Workshop (Co-Lecturer) |
 

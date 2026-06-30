@@ -21,15 +21,19 @@ jobs:
         run: quarto install tinytex --no-prompt
 
       - name: Render PDF
-        run: quarto render projects/final-countdown-cv/nelson-roque-tenure-cv.qmd --to pdf --output-dir projects/final-countdown-cv/rendered
+        run: |
+          quarto render nelson-roque-tenure-cv.qmd --to pdf --output-dir rendered
+          cp rendered/nelson-roque-tenure-cv.pdf /tmp/nelson-roque-tenure-cv.pdf
 
       - name: Render DOCX
-        run: quarto render projects/final-countdown-cv/nelson-roque-tenure-cv.qmd --to docx --output-dir projects/final-countdown-cv/rendered
+        run: |
+          quarto render nelson-roque-tenure-cv.qmd --to docx --output-dir rendered
+          cp /tmp/nelson-roque-tenure-cv.pdf rendered/nelson-roque-tenure-cv.pdf
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: nelson-roque-cv
           path: |
-            projects/final-countdown-cv/rendered/nelson-roque-tenure-cv.pdf
-            projects/final-countdown-cv/rendered/nelson-roque-tenure-cv.docx
+            rendered/nelson-roque-tenure-cv.pdf
+            rendered/nelson-roque-tenure-cv.docx

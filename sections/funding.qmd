@@ -1,6 +1,4 @@
-## Funding
-
-This section summarizes external research funding using a compact format. Award numbers and grant titles are placed in the headings so that each grant only needs a single-row metadata table.
+### Funding
 
 ### Current External Research Funding
 

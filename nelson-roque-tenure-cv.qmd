@@ -31,15 +31,12 @@ p { margin: 0 0 0.25rem 0; }
 
 {{< include sections/publications/in-preparation.qmd >}}
 
-{{< include sections/publications/other-publications.qmd >}}
-
 {{< include sections/publications/book-chapters.qmd >}}
 
 {{< include sections/publications/technical-reports.qmd >}}
 
 {{< include sections/publications/conference-proceedings.qmd >}}
 
-## Funding
 {{< include sections/funding.qmd >}}
 
 {{< include sections/awards.qmd >}}
