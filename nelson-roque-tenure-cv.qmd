@@ -47,6 +47,8 @@ p { margin: 0 0 0.25rem 0; }
 
 {{< include sections/memberships.qmd >}}
 
-{{< include sections/outreach.qmd >}}
+{{< include sections/outreach_science.qmd >}}
+
+{{< include sections/outreach_community.qmd >}}
 
 {{< include sections/presentations/presentations.qmd >}}

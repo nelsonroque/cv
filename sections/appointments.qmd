@@ -1,64 +1,69 @@
-### Appointments & Affiliations
+## Appointments
 
 ::: {.appointments}
 
-::: {.appointment-item}
-<span class="appointment-dates">2024–present</span>
+::: {.appointment}
+<div class="appointment-year">
+2024–Present
+</div>
 
-### Assistant Professor
+<div class="appointment-details">
 
-**Department of Human Development and Family Studies**  
+**Assistant Professor**  
+Department of Human Development and Family Studies  
 Penn State University
 
-**Affiliations**  
-Social Science Research Institute (SSRI)  
-Geroscience Consortium, Center for Healthy Aging
+**Affiliations**
+- Social Science Research Institute (SSRI)
+- Geroscience Consortium, Center for Healthy Aging
+
+</div>
 :::
 
-::: {.appointment-item}
-<span class="appointment-dates">2020–2023</span>
+::: {.appointment}
+<div class="appointment-year">
+2020–2023
+</div>
 
-### Assistant Professor
+<div class="appointment-details">
 
-**Psychology Department**  
+**Assistant Professor**  
+Department of Psychology  
 Human Factors and Cognitive Psychology Program  
 University of Central Florida
+
+</div>
 :::
 
 :::
 
 <style>
+
 .appointments {
-  display: grid;
-  gap: 1.25rem;
   margin-top: 1rem;
 }
 
-.appointment-item {
-  border-left: 4px solid #4f46e5;
-  background: #f8fafc;
-  border-radius: 0.75rem;
-  padding: 1rem 1.25rem;
-  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.08);
+.appointment {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 1.5rem;
+  margin-bottom: 1.25rem;
+  align-items: start;
 }
 
-.appointment-dates {
-  display: inline-block;
-  margin-bottom: 0.35rem;
-  color: #475569;
-  font-size: 0.9rem;
-  font-weight: 700;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+.appointment-year {
+  font-weight: 600;
+  color: #444;
+  white-space: nowrap;
 }
 
-.appointment-item h3 {
-  margin-top: 0;
-  margin-bottom: 0.4rem;
-  color: #111827;
+.appointment-details p {
+  margin: 0;
 }
 
-.appointment-item p {
-  margin-bottom: 0.45rem;
+.appointment-details ul {
+  margin-top: .3rem;
+  margin-bottom: 0;
 }
+
 </style>
