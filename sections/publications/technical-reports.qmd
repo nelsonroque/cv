@@ -1,0 +1,5 @@
+### Technical Reports
+
+1. Charness, N., Boot, W.R., Kaschak, M., Arpan, L., Cortese, J., Clayton, R., Stothart, C., Roque, N.A., Paedae, B., & Barajas, K. (2017). Human Factors Guidelines to Develop Educational Tip Cards for Aging Road Users. Florida Dept. of Transportation Technical Report. https://rosap.ntl.bts.gov/view/dot/37111/dot_37111_DS1.pdf
+1. Boot, W.R., Charness, N., Mitchum, A., Roque, N.A., Stothart, C., & Barajas, K. (2015). Driving Simulator Studies of the Effectiveness of Countermeasures to Prevent Wrong-Way Crashes. Florida Dept. of Technical Transportation Report. https://rosap.ntl.bts.gov/view/dot/39272/dot_39272_DS1.pdf
+1. Boot, W.R., Charness, N., Roque, N.A., Barajas, K., Dirghalli, J., & Mitchum, A. (2015). The Flashing Right Turn Signal with Pedestrian Indication: Human Factors Studies to Understand the Potential of a New Signal to Increase Awareness of and Attention to Crossing Pedestrians. Florida Dept. of Transportation Technical Report. https://rosap.ntl.bts.gov/view/dot/29644/dot_29644_DS1.pdf

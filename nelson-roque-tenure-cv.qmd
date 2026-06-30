@@ -1,0 +1,55 @@
+---
+title: 'Nelson Roque'
+format:
+  html:
+    toc: false
+    page-layout: full
+  docx:
+    reference-doc: reference-doc.docx
+---
+
+<style>
+main.content { max-width: 960px; margin: 0 auto; }
+body, p, li { font-family: Calibri, Carlito, Arial, sans-serif; }
+#title-block-header { margin-bottom: 1.25rem; }
+.quarto-title .title, .quarto-title-block .title { font-size: 2.2rem; font-weight: 700; text-align: center; }
+p, li { line-height: 1.28; font-size: 11pt; }
+h3 { margin-top: 1rem; margin-bottom: 0.15rem; font-size: 11.5pt; font-weight: 700; font-variant: small-caps; }
+ol, ul { margin-top: 0.2rem; margin-bottom: 0.55rem; }
+li { margin-bottom: 0.12rem; }
+p { margin: 0 0 0.25rem 0; }
+</style>
+{{< include sections/intro.qmd >}}
+
+{{< include sections/appointments.qmd >}}
+
+{{< include sections/education.qmd >}}
+
+{{< include sections/interests.qmd >}}
+
+{{< include sections/publications/peer-reviewed.qmd >}}
+
+{{< include sections/publications/in-preparation.qmd >}}
+
+{{< include sections/publications/other-publications.qmd >}}
+
+{{< include sections/publications/book-chapters.qmd >}}
+
+{{< include sections/publications/technical-reports.qmd >}}
+
+{{< include sections/publications/conference-proceedings.qmd >}}
+
+## Funding
+{{< include sections/funding.qmd >}}
+
+{{< include sections/awards.qmd >}}
+
+{{< include sections/teaching.qmd >}}
+
+{{< include sections/service.qmd >}}
+
+{{< include sections/memberships.qmd >}}
+
+{{< include sections/outreach.qmd >}}
+
+{{< include sections/presentations/presentations.qmd >}}

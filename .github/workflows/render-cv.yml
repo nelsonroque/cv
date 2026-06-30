@@ -1,0 +1,35 @@
+name: Render CV
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Install Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Install TinyTeX
+        run: quarto install tinytex --no-prompt
+
+      - name: Render PDF
+        run: quarto render projects/final-countdown-cv/nelson-roque-tenure-cv.qmd --to pdf --output-dir projects/final-countdown-cv/rendered
+
+      - name: Render DOCX
+        run: quarto render projects/final-countdown-cv/nelson-roque-tenure-cv.qmd --to docx --output-dir projects/final-countdown-cv/rendered
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: nelson-roque-cv
+          path: |
+            projects/final-countdown-cv/rendered/nelson-roque-tenure-cv.pdf
+            projects/final-countdown-cv/rendered/nelson-roque-tenure-cv.docx
