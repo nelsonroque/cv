@@ -1,0 +1,51 @@
+\usepackage{enumitem}
+\usepackage{needspace}
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage[normalem]{ulem}
+
+\makeatletter
+\renewcommand{\maketitle}{%
+  \begin{center}
+    {\Large\bfseries\@title\par}
+  \end{center}
+  \vspace{0.55em}
+}
+\makeatother
+
+\setstretch{1.08}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.28em}
+\setlist{nosep}
+\setlist[itemize]{leftmargin=1.2em,itemsep=0.18em,topsep=0.15em}
+\setlist[enumerate]{leftmargin=2.15em,itemindent=0pt,labelwidth=1.55em,labelsep=0.45em,itemsep=0.42em,topsep=0.2em}
+
+\titleformat{\section}
+  {\needspace{4\baselineskip}\large\bfseries}
+  {}
+  {0pt}
+  {}
+  [\titlerule]
+\titlespacing*{\section}{0pt}{1.25em}{0.45em}
+
+\titleformat{\subsection}
+  {\needspace{3\baselineskip}\normalsize\bfseries}
+  {}
+  {0pt}
+  {}
+  [\titlerule]
+\titlespacing*{\subsection}{0pt}{0.9em}{0.18em}
+
+\titleformat{\subsubsection}
+  {\needspace{2\baselineskip}\normalsize\bfseries}
+  {}
+  {0pt}
+  {}
+\titlespacing*{\subsubsection}{0pt}{0.65em}{0.12em}
+
+\titleformat{\paragraph}
+  {\needspace{2\baselineskip}\normalsize\bfseries}
+  {}
+  {0pt}
+  {}
+\titlespacing*{\paragraph}{0pt}{0.55em}{0.1em}

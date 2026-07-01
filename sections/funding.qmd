@@ -1,62 +1,145 @@
-### Funding
+## Funding
 
 ### Current External Research Funding
 
+::: {.grant}
 #### 1. NIA-5R01AG080635-03 — Validation of the Remote Cognitive Aging and Alzheimer’s Disease Research (R-CARE) Toolbox for Diverse Populations
 
-| Role | PI / Prime | Sponsor | Period | Total Costs | Public Record |
-|---|---|---|---:|---:|---|
-| Principal Investigator of subaward | Prime: Albert Einstein College of Medicine | NIH/NIA | 2023–2028 | $868,564 | [NIH RePORTER](https://reporter.nih.gov/search) |
+**Role:** Principal Investigator of subaward
 
+**Sponsor:** NIH/NIA
+
+**Period:** 2023–2028
+
+**Total Costs:** $868,564
+
+**PI / Prime:** Prime: Albert Einstein College of Medicine
+
+**Public Record:** [NIH RePORTER](https://reporter.nih.gov/search)
+:::
+
+::: {.grant}
 #### 2. NIA-5R21AG078846-02 — Perceived Ethnic Discrimination and Cognitive Function in Mexican-origin Adults
 
-| Role | PI / Prime | Sponsor | Period | Total Costs | Public Record |
-|---|---|---|---:|---:|---|
-| Principal Investigator of subaward | Prime: University of Texas at Austin; PI: Dr. Liz Muñoz | NIH/NIA | 2022–2024 | $90,232 | [NIH RePORTER](https://reporter.nih.gov/search) |
+**Role:** Principal Investigator of subaward
 
+**Sponsor:** NIH/NIA
+
+**Period:** 2022–2024
+
+**Total Costs:** $90,232
+
+**PI / Prime:** Prime: University of Texas at Austin; PI: Dr. Liz Muñoz
+
+**Public Record:** [NIH RePORTER](https://reporter.nih.gov/search)
+:::
+
+::: {.grant}
 #### 3. NIA-5P01AG003949-12 — Einstein Aging Study, Project: Air Pollution and Cognitive Function
 
-| Role | PI / Prime | Sponsor | Period | Total Costs | Public Record |
-|---|---|---|---:|---:|---|
-| Co-Principal Investigator | Albert Einstein College of Medicine; Co-PI: Dr. Charles B. Hall | NIH/NIA | 2022–2027 | $911,768; 35% allocation | [NIH RePORTER](https://reporter.nih.gov/project-details/11092245) |
+**Role:** Co-Principal Investigator
 
+**Sponsor:** NIH/NIA
+
+**Period:** 2022–2027
+
+**Total Costs:** $911,768; 35% allocation
+
+**PI / Prime:** Albert Einstein College of Medicine; Co-PI: Dr. Charles B. Hall
+
+**Public Record:** [NIH RePORTER](https://reporter.nih.gov/project-details/11092245)
+:::
+
+::: {.grant}
 #### 4. NIA-5P01AG003949-12 — Einstein Aging Study, Core: Technology and Data Management Core
 
-| Role | PI / Prime | Sponsor | Period | Total Costs | Public Record |
-|---|---|---|---:|---:|---|
-| Core Leader; Principal Investigator of subaward | Albert Einstein College of Medicine | NIH/NIA | 2022–2027 | $1,696,559; 19% allocation | [NIH RePORTER](https://reporter.nih.gov/search/sTurp4Mlm0y-kLmPPdCgSQ/project-details/11092267) |
+**Role:** Core Leader; Principal Investigator of subaward
 
+**Sponsor:** NIH/NIA
+
+**Period:** 2022–2027
+
+**Total Costs:** $1,696,559; 19% allocation
+
+**PI / Prime:** Albert Einstein College of Medicine
+
+**Public Record:** [NIH RePORTER](https://reporter.nih.gov/search/sTurp4Mlm0y-kLmPPdCgSQ/project-details/11092267)
+:::
+
+::: {.grant}
 #### 5. NIA-U2CAG060408 — Mobile Monitoring of Cognitive Change (M2C2)
 
-| Role | PI / Prime | Sponsor | Period | Total Costs | Public Record |
-|---|---|---|---:|---:|---|
-| Principal Investigator of subaward while at University of Central Florida | Prime award | NIH/NIA | 2022–2023 | $50,000 | [NIH RePORTER](https://reporter.nih.gov/search) |
+**Role:** Principal Investigator of subaward while at University of Central Florida
 
+**Sponsor:** NIH/NIA
+
+**Period:** 2022–2023
+
+**Total Costs:** $50,000
+
+**PI / Prime:** Prime award
+
+**Public Record:** [NIH RePORTER](https://reporter.nih.gov/search)
+:::
+
+::: {.grant}
 #### 6. NIA-R44AG056250 — A Non-Pharmacological Multi-Modal Therapy to Improve Sleep and Cognition and Reduce Mild Cognitive Impairment Risk
 
-| Role | PI / Prime | Sponsor | Period | Total Costs | Public Record |
-|---|---|---|---:|---:|---|
-| Principal Investigator of subaward while at University of Central Florida | Prime: Proactive Life, Inc. | NIH/NIA | 2021–2022 | $14,685 | [NIH RePORTER](https://reporter.nih.gov/search) |
+**Role:** Principal Investigator of subaward while at University of Central Florida
 
+**Sponsor:** NIH/NIA
+
+**Period:** 2021–2022
+
+**Total Costs:** $14,685
+
+**PI / Prime:** Prime: Proactive Life, Inc.
+
+**Public Record:** [NIH RePORTER](https://reporter.nih.gov/search)
+:::
+
+::: {.grant}
 #### 7. NIA-R03AG067009 — Investigating Medication Errors in Daily Life: Discovering Person-specific and Situation-specific Risk Factors
 
-| Role | PI / Prime | Sponsor | Period | Total Costs | Public Record |
-|---|---|---|---:|---:|---|
-| Principal Investigator | Nelson A. Roque | NIH/NIA | July 2020–May 2022 | $149,000 | [NIH RePORTER](https://reporter.nih.gov/search/mg5_EPGNUEOk8qjMvM2JUA/project-details/10202481) |
+**Role:** Principal Investigator
 
+**Sponsor:** NIH/NIA
+
+**Period:** July 2020–May 2022
+
+**Total Costs:** $149,000
+
+**PI / Prime:** **Nelson A. Roque**
+
+**Public Record:** [NIH RePORTER](https://reporter.nih.gov/search/mg5_EPGNUEOk8qjMvM2JUA/project-details/10202481)
+:::
+
+::: {.grant}
 #### 8. NIA-240459 — Advancing Mobile Monitoring of Intraindividual Change in Alzheimer’s Disease and Related Dementias: Building an Open and Inclusive Infrastructure
 
-| Role | Sponsor | Period | Total Costs | Public Record |
-|---|---|---:|---:|---|
-| Co-Core Leader, Data Management and Analytics Core | NIH/NIA | 2024–2029 | $19,844,799 | [NIH RePORTER](https://reporter.nih.gov/search/z-Zq4ZPDxkmZB8t_9Kda9w/project-details/11118298) |
+**Role:** Co-Core Leader, Data Management and Analytics Core
 
-| Core | Allocation | Costs |
-|---|---:|---:|
-| Technical Core | 10% | $4,372,510 |
-| Data Core | 10% | $2,142,145 |
+**Sponsor:** NIH/NIA
 
+**Period:** 2024–2029
+
+**Total Costs:** $19,844,799
+
+**Public Record:** [NIH RePORTER](https://reporter.nih.gov/search/z-Zq4ZPDxkmZB8t_9Kda9w/project-details/11118298)
+
+**Core allocations:** Technical Core, 10%, $4,372,510; Data Core, 10%, $2,142,145
+:::
+
+::: {.grant}
 #### 9. The Peanut Institute Foundation — Peanut butter, glycemic control, cognition, and cardiovascular health.
 
-| Role | PI / Prime | Sponsor | Period | Total Costs | Public Record |
-|---|---|---|---:|---:|---|
-| Co-Investigator | Nelson A. Roque | The Peanut Institute (TPI) Foundation | May 2026-June 2027 | $290,000 |
+**Role:** Co-Investigator
+
+**Sponsor:** The Peanut Institute (TPI) Foundation
+
+**Period:** May 2026-June 2027
+
+**Total Costs:** $290,000
+
+**PI / Prime:** **Nelson A. Roque**
+:::

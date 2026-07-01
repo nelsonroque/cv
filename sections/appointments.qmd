@@ -1,69 +1,15 @@
 ## Appointments
 
-::: {.appointments}
-
 ::: {.appointment}
-<div class="appointment-year">
-2023–Present
-</div>
+**2023–Present** — **Assistant Professor**
 
-<div class="appointment-details">
+Department of Human Development and Family Studies, Penn State University
 
-**Assistant Professor**  
-Department of Human Development and Family Studies  
-Penn State University
-
-**Affiliations**
-- Social Science Research Institute (SSRI)
-- Geroscience Consortium, Center for Healthy Aging
-
-</div>
+**Affiliations:** Social Science Research Institute (SSRI); Geroscience Consortium, Center for Healthy Aging
 :::
 
 ::: {.appointment}
-<div class="appointment-year">
-2020–2023
-</div>
+**2020–2023** — **Assistant Professor**
 
-<div class="appointment-details">
-
-**Assistant Professor**  
-Department of Psychology  
-Human Factors and Cognitive Psychology Program  
-University of Central Florida
-
-</div>
+Department of Psychology, Human Factors and Cognitive Psychology Program, University of Central Florida
 :::
-
-:::
-
-<style>
-
-.appointments {
-  margin-top: 1rem;
-}
-
-.appointment {
-  display: grid;
-  grid-template-columns: 130px 1fr;
-  gap: 1.5rem;
-  margin-bottom: 1.25rem;
-  align-items: start;
-}
-
-.appointment-year {
-  font-weight: 600;
-  color: #444;
-  white-space: nowrap;
-}
-
-.appointment-details p {
-  margin: 0;
-}
-
-.appointment-details ul {
-  margin-top: .3rem;
-  margin-bottom: 0;
-}
-
-</style>

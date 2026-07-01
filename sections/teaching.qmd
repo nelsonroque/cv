@@ -1,6 +1,6 @@
-### Teaching Experience
+## Teaching
 
-**Pennsylvania State University**
+### Pennsylvania State University
 
 | Term | Course / Role |
 | --- | --- |
@@ -11,7 +11,7 @@
 | Spring 2024 | Adult Development and Aging; Individual Studies |
 | Fall 2023 | Individual Studies |
 
-**University of Central Florida**
+### University of Central Florida
 
 | Term | Course / Role |
 | --- | --- |
@@ -33,7 +33,7 @@
 | Spring 2021 | Cognitive Psychology |
 | Fall 2021 | Cognitive Psychology |
 
-**Florida State University**
+### Florida State University
 
 | Term | Course / Role |
 | --- | --- |

@@ -1,7 +1,11 @@
-### Conference Proceedings
+## Conference Proceedings
 
-1. Emihovich, B., Roque, N., Criley, W., Criley, R., Criley, S., Alagoz, J., & Vukanovic-Criley, J. (2025). Increasing STEM Career Interest in Middle Schoolers Through a Health-Themed Serious Game. In Proceedings of the 18th European Conference on Game-Based Learning. Academic Conferences and Publishing Limited.
-1. Flores-Cruz, G.*, Hinkle, S.*, Roque, N., & Mouloua, M. (2023). ChatGPT as the ultimate travel buddy or research assistant: a study on perceived attitudes and usability. Proceedings of the Human Factors and Ergonomics Society, 67.
-1. Thai, P.*, Flores-Cruz, G., & Roque, N. (2023). Leveraging healthcare technology to improve patient-doctor communication. Proceedings of the Human Factors and Ergonomics Society, 67.
-1. Boot, W. R., Souders, D., Charness, N., Blocker, K., Roque, N. A., & Vitale, T. (2016). The gamification of cognitive training: Older adults' perceptions of and attitudes toward digital game-based interventions. In Human Aspects of IT for the Aged Population. Design for Aging (pp. 290-300). Springer International Publishing.
-1. Roque, N. A., Boot, W. R., Charness, N., Barajas, K., Dirghalli, J., & Mitchum, A. (2016). The Flashing Right Turn Signal with Pedestrian Indication: A human factors study to assess driver comprehension. In Human Aspects of IT for the Aged Population. Healthy and Active Aging (pp. 417-427). Springer International Publisher.
+::: {.publication-list}
+
+1. Emihovich, B., **Roque, N.**, Criley, W., Criley, R., Criley, S., Alagoz, J., & Vukanovic-Criley, J. (2025). Increasing STEM Career Interest in Middle Schoolers Through a Health-Themed Serious Game. In Proceedings of the 18th European Conference on Game-Based Learning. Academic Conferences and Publishing Limited.
+1. <u>Flores-Cruz, G.</u>*, <u>Hinkle, S.</u>*, **Roque, N.**, & Mouloua, M. (2023). ChatGPT as the ultimate travel buddy or research assistant: a study on perceived attitudes and usability. Proceedings of the Human Factors and Ergonomics Society, 67.
+1. <u>Thai, P.</u>*, Flores-Cruz, G., & **Roque, N.** (2023). Leveraging healthcare technology to improve patient-doctor communication. Proceedings of the Human Factors and Ergonomics Society, 67.
+1. Boot, W. R., Souders, D., Charness, N., Blocker, K., **Roque, N. A.**, & Vitale, T. (2016). The gamification of cognitive training: Older adults' perceptions of and attitudes toward digital game-based interventions. In Human Aspects of IT for the Aged Population. Design for Aging (pp. 290-300). Springer International Publishing.
+1. **Roque, N. A.**, Boot, W. R., Charness, N., Barajas, K., Dirghalli, J., & Mitchum, A. (2016). The Flashing Right Turn Signal with Pedestrian Indication: A human factors study to assess driver comprehension. In Human Aspects of IT for the Aged Population. Healthy and Active Aging (pp. 417-427). Springer International Publisher.
+
+:::
