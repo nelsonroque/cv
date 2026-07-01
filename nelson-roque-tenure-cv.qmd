@@ -16,7 +16,7 @@ filters:
 
 {{< include sections/appointments.qmd >}}
 
-{{< include sections/career-highlights.qmd >}}
+<!-- {{< include sections/career-highlights.qmd >}} -->
 
 {{< include sections/education.qmd >}}
 
@@ -48,4 +48,10 @@ filters:
 
 {{< include sections/outreach_community.qmd >}}
 
-{{< include sections/presentations/presentations.qmd >}}
+## Presentations
+
+{{< include sections/presentations/invited.qmd >}}
+
+{{< include sections/presentations/conference.qmd >}}
+
+{{< include sections/presentations/university.qmd >}}

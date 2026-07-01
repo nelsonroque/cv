@@ -1,0 +1,9 @@
+### Invited Talks
+
+1. **Roque, N.A.** (2025, May 20th). Detection of AI-Generated Information Across the Lifespan. In-person presentation for the IAFCI PA State Annual Conference in State College, PA.
+1. **Roque, N.A.** (2025, March). Detection of AI-Generated Images Across the Lifespan. In-person presentation for the Mental Health Technology Center (MHTech) Seminar Series at the University of California San Diego.
+1. **Roque, N.A.** (2024, May 10th). Breathe Well, Age Well. Virtual presentation as part of Stony Brook’s Cognitive Aging Colloquium.
+1. **Roque, N.A.** (2024, January 22nd). Beyond Numbers: Unlocking Health Insights in Underserved Communities through mHealth Data Collection. In-person presentation and Q&A panel as part of UT Austin’s CAPS Panel on Ecological Momentary Assessments in Underrepresented Populations.
+1. **Roque, N.A.** (2022, October 20th). Cognitive Assessment in the Cloud: Approaches & Lessons Learned. Virtual presentation as part of Amazon Web Services (AWS) Education Research Seminar Series.
+1. **Roque, N.A.** (2022, October 6th). Cognitive Assessment in the Cloud: Approaches & Lessons Learned. In-person presentation at Union College. Schenectady, New York.
+1. **Roque N.A.** (2020, August 20th). Leveraging Air Quality Sensors to Detect Smoking Behaviors. Virtual presentation at Pennsylvania State University x Monash University: Intersection of Health and the Environment.

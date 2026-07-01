@@ -1,0 +1,12 @@
+### University / Department / Center: Oral Presentations
+
+1. **Roque N.A.** (2023, October). Breathe Well, Age Well: A Comprehensive Look at Air Quality for Older Adults. Presented at the Penn State Center for Healthy Aging Colloquium.
+1. **Roque N.A.** (2023, March). Reproducible Data Science. Workshop presentation for UCF Research IT. Workshop event listing: https://events.ucf.edu/event/2891771/reproducible-data-science/
+1. **Roque N.A.** (2023, March). Qualtrics for Research Data Collection. Workshop presentation for UCF Research IT. Workshop event listing: https://events.ucf.edu/event/2819983/qualtrics-for-research-data-collection/
+1. **Roque N.A.** (2021, September). Introduction to Data Wrangling & Visualization in R: Exploring the Google Mobility Dataset. Workshop presentation for UCF HFC Doctoral Program Brown bag series. Workshop materials open-sourced: https://github.com/nelsonroque/contextlab_intro_datascience
+1. **Roque N.A.** (2019, November). Using Model-Based Cluster Analyses of Cognitive Performance to Unpack Differences in Psychosocial Risk Factors. Presentation for Pennsylvania State University’s Center for Health Aging, Aging SIG.
+1. **Roque N.A.** (2018, March). tsfeaturex: Automating the Extraction of Time Series Features. Presentation for Pennsylvania State University’s QuantDev Brown Bag Lecture Series.
+1. **Roque N.A.** (2018, April). Reliably measuring attention capture: Challenges and new approaches. Presentation for FSU Psychology’s Graduate Research Day.
+1. **Roque N.A.** (2017, April). Exploring visual search as a paradigm for predicting medication errors. Presentation for FSU Psychology’s Graduate Research Day.
+1. **Roque N.A.** (2016, April). Do different attention capture paradigms measure different types of capture? Presentation for FSU Psychology’s Graduate Research Day.
+1. **Roque N.A.** (2016, March). Exploring visual search as a paradigm for studying medication errors. Research sharing luncheon held by the FSU Fellows Society.

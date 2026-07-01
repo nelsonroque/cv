@@ -2,6 +2,7 @@
 
 ::: {.publication-list}
 
+1. **Roque, N. A.** (submitted, The Gerontologist). Protecting ourselves from AI-enabled financial fraud: The case for the family password.
 1. **Roque, N. A.**, Felt, J. (submitted, JMIR Research Protocols). Exploring risk factors for medication errors in daily life: A mixed methods study.
 
 :::
@@ -9,8 +10,6 @@
 ## In Preparation
 
 ::: {.publication-list}
-
-1. **Roque, N. A.** (in preparation). Protecting ourselves from AI-enabled financial fraud: The case for the family password.
 1. **Roque, N. A.**, & Shaleha, R. (in preparation). Screen time isn’t all bad: A natural language analysis of how we measure it.
 1. **Roque, N. A.**, & Shaleha, R. (in preparation). A taxonomy of screen-time interventions.
 1. **Roque, N. A.**, Wang, D.H., Huncik, M., Santos, A. (in preparation). What one extra monitor can reveal: A case study on local air quality dynamics.

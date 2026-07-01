@@ -1,15 +1,3 @@
-## Presentations
-
-### Invited Talks
-
-1. **Roque, N.A.** (2025, May 20th). Detection of AI-Generated Information Across the Lifespan. In-person presentation for the IAFCI PA State Annual Conference in State College, PA.
-1. **Roque, N.A.** (2025, March). Detection of AI-Generated Images Across the Lifespan. In-person presentation for the Mental Health Technology Center (MHTech) Seminar Series at the University of California San Diego.
-1. **Roque, N.A.** (2024, May 10th). Breathe Well, Age Well. Virtual presentation as part of Stony Brook’s Cognitive Aging Colloquium.
-1. **Roque, N.A.** (2024, January 22nd). Beyond Numbers: Unlocking Health Insights in Underserved Communities through mHealth Data Collection. In-person presentation and Q&A panel as part of UT Austin’s CAPS Panel on Ecological Momentary Assessments in Underrepresented Populations.
-1. **Roque, N.A.** (2022, October 20th). Cognitive Assessment in the Cloud: Approaches & Lessons Learned. Virtual presentation as part of Amazon Web Services (AWS) Education Research Seminar Series.
-1. **Roque, N.A.** (2022, October 6th). Cognitive Assessment in the Cloud: Approaches & Lessons Learned. In-person presentation at Union College. Schenectady, New York.
-1. **Roque N.A.** (2020, August 20th). Leveraging Air Quality Sensors to Detect Smoking Behaviors. Virtual presentation at Pennsylvania State University x Monash University: Intersection of Health and the Environment.
-
 ### Organized Symposia
 
 1. Harrington, K., **Roque, N.**, & Mogle, J. (2020, November). Approaches for Modeling of Intensive Longitudinal Data to Understand Cognitive Aging. Innovation in Aging, 4(Suppl 1), 565. Gerontological Society of America, 2020 Annual Meeting. – Symposium Co-Chair.
@@ -94,15 +82,3 @@
 1. **Roque N.A.**, Boot, W.R. (2014, May). Exploring the Relationship between Object-Based Attention Effects and Object Realism. Poster presented at the 14th Annual Meeting of the Vision Sciences Society. St. Petersburg Beach, FL. https://jov.arvojournals.org/article.aspx?articleid=2144943
 1. Driscoll K.A., Johnson S.B., Gill E., Pizzi A., **Roque N.A.**, Sorrentino E., … (2012, August) “Grading” Type 1 Diabetes Knowledge: How Well Do Children and Parents Perform? Presented at the 120th Annual Convention of the American Psychological Association. Orlando, FL.
 
-### University / Department / Center: Oral Presentations
-
-1. **Roque N.A.** (2023, October). Breathe Well, Age Well: A Comprehensive Look at Air Quality for Older Adults. Presented at the Penn State Center for Healthy Aging Colloquium.
-1. **Roque N.A.** (2023, March). Reproducible Data Science. Workshop presentation for UCF Research IT. Workshop event listing: https://events.ucf.edu/event/2891771/reproducible-data-science/
-1. **Roque N.A.** (2023, March). Qualtrics for Research Data Collection. Workshop presentation for UCF Research IT. Workshop event listing: https://events.ucf.edu/event/2819983/qualtrics-for-research-data-collection/
-1. **Roque N.A.** (2021, September). Introduction to Data Wrangling & Visualization in R: Exploring the Google Mobility Dataset. Workshop presentation for UCF HFC Doctoral Program Brown bag series. Workshop materials open-sourced: https://github.com/nelsonroque/contextlab_intro_datascience
-1. **Roque N.A.** (2019, November). Using Model-Based Cluster Analyses of Cognitive Performance to Unpack Differences in Psychosocial Risk Factors. Presentation for Pennsylvania State University’s Center for Health Aging, Aging SIG.
-1. **Roque N.A.** (2018, March). tsfeaturex: Automating the Extraction of Time Series Features. Presentation for Pennsylvania State University’s QuantDev Brown Bag Lecture Series.
-1. **Roque N.A.** (2018, April). Reliably measuring attention capture: Challenges and new approaches. Presentation for FSU Psychology’s Graduate Research Day.
-1. **Roque N.A.** (2017, April). Exploring visual search as a paradigm for predicting medication errors. Presentation for FSU Psychology’s Graduate Research Day.
-1. **Roque N.A.** (2016, April). Do different attention capture paradigms measure different types of capture? Presentation for FSU Psychology’s Graduate Research Day.
-1. **Roque N.A.** (2016, March). Exploring visual search as a paradigm for studying medication errors. Research sharing luncheon held by the FSU Fellows Society.
