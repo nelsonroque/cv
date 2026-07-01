@@ -5,9 +5,9 @@ format:
     toc: true
     page-layout: full
     css: styles/cv.css
-  pdf:
-    toc: false
-    include-in-header: styles/cv.tex
+  # pdf:
+  #   toc: false
+  #   # include-in-header: styles/cv.tex
 filters:
   - filters/cv-format.lua
 ---

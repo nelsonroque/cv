@@ -1,3 +1,3 @@
 ## Research Areas
 
-Cognitive Aging, Digital Cognitive Assessment, Environmental Influences on Cognitive Health, Digital Health and Digital Environments, Data Science and Open Scientific Infrastructure
+Cognitive Aging, Digital Cognitive Assessment, Physical and Digital Environmental Influences on Cognitive Health, Data Science and Open Scientific Infrastructure

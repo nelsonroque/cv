@@ -11,7 +11,8 @@
 
 | Student | Year | Department | University | Current Position |
 |---------|-----:|------------|------------|------------------|
-| Rinanda Shaleha | 2026 | Human Development & Family Studies | Penn State | Assistant Professor, Indonesia University
+| Rinanda Shaleha | 2026 | Human Development & Family Studies | Penn State | Assistant Professor, Indonesia University of Education (Universitas Pendidikan Indonesia)
+| Liujing Xie | starting Fall 2026 | Human Development & Family Studies | Penn State | 
 
 ### Graduate Committee Membership (Non-Chair)
 

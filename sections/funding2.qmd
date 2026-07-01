@@ -5,7 +5,7 @@
 | Years | Role | Sponsor | Project | Total Costs |
 |:------|:-----|:--------|:--------|------------:|
 | **2026–2027** | **Co-Investigator** | The Peanut Institute Foundation | Peanut butter, glycemic control, cognition, and cardiovascular health | **$290,000** |
-| **2025–2030** | **Co-Investigator** | NIH/NIA | THE NIH PRECISION BRAIN HEALTH NETWORK: Open and Inclusive Measurement of Neuropsychological Change for AD/ADRD Primary Prevention Trials (U24AG092760) | **$39,000,000*** |
+| **2025–2030** | **Co-Investigator** | NIH/NIA | THE NIH PRECISION BRAIN HEALTH NETWORK: Open and Inclusive Measurement of Neuropsychological Change for AD/ADRD Primary Prevention Trials (U24AG092760) | **$39,744,335*** |
 | **2025–2030** | **Co-Investigator** | NIH/NIA | Advancing Mobile Monitoring of Intraindividual Change in Alzheimer’s Disease and Related Dementias: Building an Open and Inclusive Infrastructure (U19AG087932) | **$19,844,799*** |
 | **2023–2028** | **Subaward PI** | NIH/NIA | Validation of the Remote CARE Toolbox for Diverse Populations (R01AG080635) | **$868,564** |
 | **2022–2027** | **Co-PI** | NIH/NIA | Einstein Aging Study: Air Pollution and Cognitive Function (P01AG003949) | **$911,768** |
